@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VHa3kBSaZbhcFCWySBxZVhLxmB7ORw3ZsQiAUUD/NyM=",
+  "Source": "TecNM.Ecommrce.Api",
+  "BasePath": "_content/TecNM.Ecommrce.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
