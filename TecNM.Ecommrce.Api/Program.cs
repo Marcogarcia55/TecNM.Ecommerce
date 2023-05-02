@@ -36,6 +36,7 @@ SqlMapperExtensions.TableNameMapper = entityType =>
     letters[0] = char.ToUpper(letters[0]);
     return new string(letters);
 };
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
